@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+
 namespace EquityScanner.Run
 {
     class Program
@@ -7,6 +9,10 @@ namespace EquityScanner.Run
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            
+
+
             Console.ReadLine();
         }
     }

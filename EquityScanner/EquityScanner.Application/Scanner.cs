@@ -11,7 +11,7 @@ using System.Linq;
 
 namespace EquityScanner.Application
 {
-    class Scanner
+    public class Scanner
     {
         List<string> symbolList;
 
